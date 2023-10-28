@@ -1,9 +1,8 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Code_Icon.PNG" alt="image" width="400">
 
 <h1 align="center">Hi 👋, I'm Mritunjay bachelor</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mritunjay11&label=Profile%20views&color=0e75b6&style=flat" alt="mritunjay11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mritunjay11" alt="mritunjay11" /></a> </p>
 
